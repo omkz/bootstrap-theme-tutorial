@@ -1,0 +1,17 @@
+{
+  "name": "me",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "omz"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
